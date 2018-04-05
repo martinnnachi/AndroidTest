@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AndroidTest</string>
+    <string name="hello_world">Hello World</string>
+    <string name="git_is_great">Git is Great!</string>
 </resources>
